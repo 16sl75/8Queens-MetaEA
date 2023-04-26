@@ -11,7 +11,7 @@ Tensorflow 2.8.0
 
 If you want to apply our meta EA model on 8 Queens Problem, you need to first get to the directory.
 Then run
-'''
+```
 python3 meta_main.py
-'''
+```
 
