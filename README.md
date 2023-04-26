@@ -24,3 +24,5 @@ If you want to apply the meta EA model on Reinforcement Learning, change the com
 ```
 python3 meta_main_RL.py
 ```
+
+After the EA algorithm is finished, the result would be stored in the corresponding .json file.
