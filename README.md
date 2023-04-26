@@ -15,3 +15,12 @@ Then run
 python3 meta_main.py
 ```
 
+If you want to apply the meta EA model on Neural Netword, change the command line to
+```
+python3 meta_main_NN.py
+```
+
+If you want to apply the meta EA model on Reinforcement Learning, change the command line to
+```
+python3 meta_main_RL.py
+```
